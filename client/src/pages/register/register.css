@@ -30,22 +30,16 @@
   padding: 10px;
   background-color: white;
   border: none;
-  border-radius: 10px;
-}
-
-.registerInput:focus {
-  outline: none;
 }
 
 .registerButton {
   margin-top: 20px;
   cursor: pointer;
   background-color: teal;
-  color: white;
-  padding: 10px;
   border: none;
+  color: white;
   border-radius: 10px;
-  text-align: center;
+  padding: 10px;
 }
 
 .registerLoginButton {
@@ -54,8 +48,8 @@
   right: 20px;
   background-color: lightcoral;
   cursor: pointer;
-  padding: 10px;
   border: none;
+  padding: 10px;
   color: white;
   border-radius: 10px;
 }
